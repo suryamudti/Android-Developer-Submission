@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Football League App</string>
+
+    <string name="username">Suryamudti Salmat</string>
+    <string name="email">suryamudti0128@gmail.com</string>
+    <string name="software_engineer">Software Engineer</string>
+
+
+    <array name="league_logo">
+        <item>@drawable/gojek</item>
+        <item>@drawable/premiere</item>
+        <item>@drawable/laliga</item>
+        <item>@drawable/ligue1</item>
+        <item>@drawable/serie_a</item>
+        <item>@drawable/uefa_champions</item>
+        <item>@drawable/bundesliga</item>
+        <item>@drawable/eredivisie</item>
+        <item>@drawable/turkcell</item>
+        <item>@drawable/uefa_europa</item>
+    </array>
+
+    <string-array name="league_name">
+        <item>Gojek Traveloka League</item>
+        <item>Premiere League</item>
+        <item>Laliga League</item>
+        <item>Ligue 1 League</item>
+        <item>Serie A League</item>
+        <item>UEFA Champions League</item>
+        <item>Bundesliga League</item>
+        <item>Eredivisie League</item>
+        <item>Turkcell Super League</item>
+        <item>UEFA Europe League</item>
+    </string-array>
+
+    <string-array name="league_description">
+        <item>Liga 1, sebelumnya bernama Indonesia Super League adalah liga profesional level teratas dalam Sistem liga sepak bola di Indonesia. 18 klub bersaing untuk menjadi juara dengan sistem kompetisi promosi dan degradasi.</item>
+        <item>The Premier League is the top level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League. The Premier League is a corporation in which the member clubs act as shareholders.</item>
+        <item>The Campeonato Nacional de Liga de Primera División, commonly known as La Liga, is the men's top professional football division of the Spanish football league system.</item>
+        <item>Ligue 1, also called Ligue 1 Conforama for sponsorship reasons with Conforama, is a French professional league for men's association football clubs. At the top of the French football league system, it is the country's primary football competition.</item>
+        <item>Serie A, also called Serie A TIM due to sponsorship by TIM, is a professional league competition for football clubs located at the top of the Italian football league system and the winner is awarded the Coppa Campioni d'Italia. It has been operating for over ninety years since the 1929–30 season.</item>
+        <item>The UEFA Champions League is an annual club football competition organised by the Union of European Football Associations and contested by top-division European clubs, deciding the best team in Europe.</item>
+        <item>The Bundesliga is a professional association football league in Germany and the football league with the highest average stadium attendance worldwide. At the top of the German football league system, the Bundesliga is Germany's primary football competition.</item>
+        <item>Eredivisie merupakan liga sepak bola tertinggi di Belanda. Liga ini diikuti 18 tim. Didirikan sejak tahun 1956. Liga ini secara teratur mengadakan kompetisi tahunan. Tim yang memiliki gelar juara terbanyak adalah Ajax Amsterdam dengan 34 gelar, disusul PSV Eindhoven dengan 18 gelar, dan Feyenoord dengan 9 gelar.</item>
+        <item>The Süper Lig is a Turkish professional league for association football clubs. It is the top-flight of the Turkish football league system and is run by the Turkish Football Federation. Eighteen clubs compete annually, where a champion is decided and three clubs are promoted and relegated from, and to, the 1. Lig.</item>
+        <item>The UEFA Europa League is an annual football club competition organised by UEFA since 1971 for eligible European football clubs. Clubs qualify for the competition based on their performance in their national leagues and cup competitions.</item>
+    </string-array>
+</resources>
