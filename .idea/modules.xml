@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dicoding_kotlin_android_submission_1.iml" filepath="$PROJECT_DIR$/dicoding_kotlin_android_submission_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dicoding_android_pemula_submission.iml" filepath="$PROJECT_DIR$/dicoding_android_pemula_submission.iml" />
     </modules>
   </component>
 </project>
